@@ -26,7 +26,7 @@ const persona = {
         color: 'Cyan'
     }
 };
-console.log(persona.carro.color)
+console.log(persona.carro.color);
 
 //Funciones
 function saludo() {
